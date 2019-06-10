@@ -1,8 +1,7 @@
-import java.lang.*;
-class HelloWorld
+class test
 {
-  public static void main(String a[])
-  {
-    System.out.println("Hello World");
-  }
+	public static void main(String a[])
+	{
+		System.out.println("hello");
+	}	
 }
