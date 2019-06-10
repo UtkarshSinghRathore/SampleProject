@@ -5,6 +5,6 @@ class sum
 	{
 		int x=35,y=40, sum=0;
 		sum=x+y;
-		System.out.println("The Sum is :"sum);
+		System.out.println("The Sum is :"+sum);
 	}
 }
